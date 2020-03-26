@@ -123,8 +123,8 @@ console.log(d);
 //     }
 
 // }
-// console.log(add());
-// add();
-// add();
-// add();
-// console.log(add());
+console.log(add());
+add();
+add();
+add();
+console.log(add());
