@@ -10,7 +10,7 @@ var b=(function () {
 c=b;
 d=b;
 console.log(c);
-console.log(d);
+// console.log(d);
 // var obj = {
 //     a: 3,
 //     b: function () 
